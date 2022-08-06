@@ -1,6 +1,4 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# List of things App
+# Ruby capstone project
 
 > An object-based personal list where you can save your favorite thing information ordered by author, lables and genre.
 
